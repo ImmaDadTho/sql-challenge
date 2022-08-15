@@ -1,0 +1,6 @@
+#ignore password fields
+password.txt
+
+#ignore ds files
+.DS_Store
+.DS_store
